@@ -1,0 +1,19 @@
+# Temporary files
+.DS_Store
+
+# Node.js-related files
+node_modules/
+npm-debug.log
+
+# Test coverage
+/coverage/
+
+# Distribution files
+/dist/
+
+# Directory structure preserving
+!.keep
+*.orig
+
+#variable
+#/app/components/common/variables.js
